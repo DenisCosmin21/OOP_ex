@@ -10,6 +10,6 @@ class Client {
         Jucator x = new Jucator("Ploiesti", 3);
         System.out.println(upt);
         upt.efectueazaSchimbare(titular[0], x);
-        System.out.println(upt);
+        System.out.println(up);
     }
 }
